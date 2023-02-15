@@ -1,0 +1,15 @@
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/bin/Debug/net6.0/OnTheContraryArray
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/bin/Debug/net6.0/OnTheContraryArray.deps.json
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/bin/Debug/net6.0/OnTheContraryArray.runtimeconfig.json
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/bin/Debug/net6.0/OnTheContraryArray.dll
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/bin/Debug/net6.0/OnTheContraryArray.pdb
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.csproj.AssemblyReference.cache
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.AssemblyInfoInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.AssemblyInfo.cs
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.csproj.CoreCompileInputs.cache
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.dll
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/refint/OnTheContraryArray.dll
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.pdb
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/OnTheContraryArray.genruntimeconfig.cache
+/Users/amirbekmirzozoda/RiderProjects/OnTheContraryArray/OnTheContraryArray/obj/Debug/net6.0/ref/OnTheContraryArray.dll
